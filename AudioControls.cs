@@ -10,14 +10,19 @@ using System.Windows.Forms;
 
 namespace SODV_2101_Term_Project
 {
-    public partial class TermProjectpg2 : Form
+    public partial class InteractiveMenu1 : UserControl
     {
-        public TermProjectpg2()
+        public InteractiveMenu1()
         {
             InitializeComponent();
         }
 
-        private void TermProjectpg2_Load(object sender, EventArgs e)
+        private void dateTimePicker1_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void clrbtn_Click(object sender, EventArgs e)
         {
 
         }

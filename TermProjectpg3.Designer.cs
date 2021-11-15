@@ -30,7 +30,20 @@ namespace SODV_2101_Term_Project
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(TermProjectpg3));
+            this.backbtn = new System.Windows.Forms.Button();
             this.SuspendLayout();
+            // 
+            // backbtn
+            // 
+            this.backbtn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.backbtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.backbtn.ForeColor = System.Drawing.Color.Blue;
+            this.backbtn.Location = new System.Drawing.Point(-5, 515);
+            this.backbtn.Name = "backbtn";
+            this.backbtn.Size = new System.Drawing.Size(199, 46);
+            this.backbtn.TabIndex = 6;
+            this.backbtn.Text = "Previous page";
+            this.backbtn.UseVisualStyleBackColor = false;
             // 
             // TermProjectpg3
             // 
@@ -39,12 +52,16 @@ namespace SODV_2101_Term_Project
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(784, 561);
+            this.Controls.Add(this.backbtn);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "TermProjectpg3";
+            this.Load += new System.EventHandler(this.TermProjectpg3_Load);
             this.ResumeLayout(false);
 
         }
 
         #endregion
+
+        private System.Windows.Forms.Button backbtn;
     }
 }

@@ -16,5 +16,10 @@ namespace SODV_2101_Term_Project
         {
             InitializeComponent();
         }
+
+        private void TermProjectpg3_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
