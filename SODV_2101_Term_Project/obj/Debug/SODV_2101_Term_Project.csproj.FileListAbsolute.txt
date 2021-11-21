@@ -1,0 +1,10 @@
+C:\Users\paulk\DeskTop\SODV_2101_Term_Project\bin\Debug\SODV_2101_Term_Project.exe.config
+C:\Users\paulk\DeskTop\SODV_2101_Term_Project\bin\Debug\SODV_2101_Term_Project.exe
+C:\Users\paulk\DeskTop\SODV_2101_Term_Project\bin\Debug\SODV_2101_Term_Project.pdb
+C:\Users\paulk\DeskTop\SODV_2101_Term_Project\obj\Debug\SODV_2101_Term_Project.csproj.AssemblyReference.cache
+C:\Users\paulk\DeskTop\SODV_2101_Term_Project\obj\Debug\SODV_2101_Term_Project.MainForm.resources
+C:\Users\paulk\DeskTop\SODV_2101_Term_Project\obj\Debug\SODV_2101_Term_Project.Properties.Resources.resources
+C:\Users\paulk\DeskTop\SODV_2101_Term_Project\obj\Debug\SODV_2101_Term_Project.csproj.GenerateResource.cache
+C:\Users\paulk\DeskTop\SODV_2101_Term_Project\obj\Debug\SODV_2101_Term_Project.csproj.CoreCompileInputs.cache
+C:\Users\paulk\DeskTop\SODV_2101_Term_Project\obj\Debug\SODV_2101_Term_Project.exe
+C:\Users\paulk\DeskTop\SODV_2101_Term_Project\obj\Debug\SODV_2101_Term_Project.pdb
